@@ -37,18 +37,6 @@ yarn intall
 yarn dev
 ```
 
-### Prerequisites
-
-Before deploying to the server, it is recommended to test the application locally to avoid any errors. Run the following script:
-
-```bash
-yarn build
-```
-
-### Deployment to server
-
-If the local build is successful,merge your latest code into the main branch by creating a pull request. The deployment process is automated with predefined workflows, ensuring automatic deployment when the code merge is successful.
-
 ## Built With
 
 - [NextJS](https://react.dev/) - The frontend framework used
