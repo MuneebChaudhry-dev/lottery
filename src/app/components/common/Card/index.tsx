@@ -127,6 +127,34 @@ const Card = ({ lotteryType, lotteryData }: ICard) => {
                 </td>
                 <td className=' text-end'>14,934,000,000</td>
               </tr>
+              <tr>
+                <td>2302123</td>
+                <td className='text-center' style={{ color: primaryColor }}>
+                  99 99 99 99 99
+                </td>
+                <td className=' text-end'>14,934,000,000</td>
+              </tr>
+              <tr>
+                <td>2302123</td>
+                <td className='text-center' style={{ color: primaryColor }}>
+                  99 99 99 99 99
+                </td>
+                <td className=' text-end'>14,934,000,000</td>
+              </tr>
+              <tr>
+                <td>2302123</td>
+                <td className='text-center' style={{ color: primaryColor }}>
+                  99 99 99 99 99
+                </td>
+                <td className=' text-end'>14,934,000,000</td>
+              </tr>
+              <tr>
+                <td>2302123</td>
+                <td className='text-center' style={{ color: primaryColor }}>
+                  99 99 99 99 99
+                </td>
+                <td className=' text-end'>14,934,000,000</td>
+              </tr>
             </tbody>
           </table>
         </div>

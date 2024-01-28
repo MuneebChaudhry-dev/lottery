@@ -1,4 +1,4 @@
-'use cliet';
+'use client';
 import Atomic from './components/Atomic';
 import Classic from './components/Classic';
 import Cosmic from './components/Cosmic';
